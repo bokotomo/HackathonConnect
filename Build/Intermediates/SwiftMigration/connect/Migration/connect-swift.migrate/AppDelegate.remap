@@ -1,0 +1,44 @@
+[
+ {
+  "file": "/Users/fukumoto/Downloads/connect_main/connect/AppDelegate.swift",
+  "offset": 282,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/fukumoto/Downloads/connect_main/connect/AppDelegate.swift",
+  "offset": 356,
+  "remove": 8,
+  "text": "UIApplicationLaunchOptionsKey",
+ },
+ {
+  "file": "/Users/fukumoto/Downloads/connect_main/connect/AppDelegate.swift",
+  "offset": 368,
+  "remove": 7,
+  "text": "y",
+ },
+ {
+  "file": "/Users/fukumoto/Downloads/connect_main/connect/AppDelegate.swift",
+  "offset": 523,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/fukumoto/Downloads/connect_main/connect/AppDelegate.swift",
+  "offset": 1041,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/fukumoto/Downloads/connect_main/connect/AppDelegate.swift",
+  "offset": 1479,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/fukumoto/Downloads/connect_main/connect/AppDelegate.swift",
+  "offset": 1710,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/fukumoto/Downloads/connect_main/connect/AppDelegate.swift",
+  "offset": 1976,
+  "text": "_ ",
+ }
+]

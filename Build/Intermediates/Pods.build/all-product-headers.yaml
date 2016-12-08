@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/fukumoto/Downloads/connect_main/Build/Products/Debug-iphonesimulator/Pods_connect.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-connect-umbrella.h",
+          'external-contents': "/Users/fukumoto/Downloads/connect_main/Pods/Target Support Files/Pods-connect/Pods-connect-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_connect-Swift.h",
+          'external-contents': "/Users/fukumoto/Downloads/connect_main/Build/Products/Debug-iphonesimulator/Pods_connect.framework/Headers/Pods_connect-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/fukumoto/Downloads/connect_main/Build/Products/Debug-iphonesimulator/Pods_connect.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/fukumoto/Downloads/connect_main/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-connect.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
