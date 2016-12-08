@@ -1,5 +1,0 @@
-version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
-options: "b8b421784d4dbd425ec776bdcf2626bb"
-build_time: [534519314, 294170000]
-inputs:
-  "/Users/fukumoto/Downloads/connect_main/connectUITests/connectUITests.swift": [517150658, 0]

@@ -1,9 +1,0 @@
-version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
-options: "a3e4326e6d5509009a2d372a5487a7df"
-build_time: [534519385, 130360000]
-inputs:
-  "/Users/fukumoto/Downloads/connect_main/connect/ViewController.swift": [517150658, 0]
-  "/Users/fukumoto/Downloads/connect_main/connect/Filter.swift": !dirty [534519358, 0]
-  "/Users/fukumoto/Downloads/connect_main/connect/MapView.swift": !dirty [534519358, 0]
-  "/Users/fukumoto/Downloads/connect_main/connect/AppDelegate.swift": [534519358, 0]
-  "/Users/fukumoto/Downloads/connect_main/connect/AllMapPage.swift": !dirty [534519358, 0]
